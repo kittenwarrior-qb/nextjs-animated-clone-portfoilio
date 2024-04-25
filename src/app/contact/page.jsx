@@ -1,6 +1,6 @@
-const AbouContact = () => {
+const ContactPage = () => {
     return (
-        <div className="">AbouContact</div>
+        <div className="">ContactPage</div>
     )
 }
 
